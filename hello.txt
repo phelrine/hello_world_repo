@@ -5,3 +5,4 @@ Hallo, Welt!
 Ciao, mondo!
 Olá, Mundo!
 Привет, мир!
+こんにちは、世界！
