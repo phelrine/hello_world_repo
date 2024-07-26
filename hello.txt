@@ -4,3 +4,4 @@ Bonjour, le monde!
 Hallo, Welt!
 Ciao, mondo!
 Olá, Mundo!
+Привет, мир!
