@@ -11,3 +11,4 @@ Olá, Mundo!
 Hej, världen!
 Hej, Verden!
 Hei, maailma!
+Hallo, wereld!
