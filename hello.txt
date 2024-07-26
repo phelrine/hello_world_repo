@@ -9,3 +9,4 @@ Olá, Mundo!
 你好，世界！
 안녕하세요, 세계!
 Hej, världen!
+Hej, Verden!
