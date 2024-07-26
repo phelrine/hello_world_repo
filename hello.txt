@@ -24,3 +24,4 @@ Hallo, wrâld!
 Sveika, pasaule!
 Sveiki, pasauli!
 Здраво, свету!
+Ahoj, světe!
